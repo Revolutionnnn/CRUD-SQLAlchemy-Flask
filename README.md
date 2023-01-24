@@ -2,15 +2,21 @@
 
 Bienvenido a CRUD-SQLAlchemy-Flask, nuestra solución de implementación de CRUD (Create, Read, Update y Delete) utilizando SQLAlchemy y Flask.
 
-Para utilizar nuestra aplicación, primero deberá tener instalado Flask y SQLAlchemy en su entorno. También debe tener acceso a una base de datos compatible con SQLAlchemy.
+Este proyecto fue creado con la ayuda del youtuber Fazt Code [Video de youtube](https://www.youtube.com/watch?v=IgCfZkR8wME)
 
-Una vez instalado, puede utilizar nuestros scripts de migración para crear las tablas necesarias en su base de datos. Luego, puede utilizar nuestras clases de modelo de SQLAlchemy para interactuar con la base de datos.
+Para este proyecto utilice la base de datos MYSQL para crear,leer,actualizar y eliminar los datos utilizados en la pagina web
 
-Para crear un nuevo registro, utilice el método "new ()" de nuestras clases de modelo.
-Para leer registros existentes, utilice el método "home ()" de nuestras clases de modelo.
-Para actualizar un registro existente, utilice el método "update ()" de nuestras clases de modelo.
-Para eliminar un registro existente, utilice el método "delete ()" de nuestras clases de modelo.
+De esta manera se ve nuestro CRUD
 
-Además, también proporcionamos una interfaz de usuario básica mediante Flask para interactuar con los datos en la base de datos. Sin embargo, también se puede utilizar nuestras clases de modelo para interactuar con la base de datos desde cualquier aplicación que sea compatible con SQLAlchemy.
+<h3>HOME</h3>
 
-Por favor revise el código y la documentación para obtener más detalles sobre cómo utilizar CRUD-SQLAlchemy-Flask. Si tiene alguna pregunta o necesita ayuda, no dude en ponerse en contacto conmigo.
+![home](https://github.com/Revolutionnnn/CRUD-SQLAlchemy-Flask/blob/main/images_readme/home.png)
+
+<h3>UPDATE</h3>
+
+![update](https://github.com/Revolutionnnn/CRUD-SQLAlchemy-Flask/blob/main/images_readme/update.png)
+
+<h3>DELETE</h3>
+
+![delete](https://github.com/Revolutionnnn/CRUD-SQLAlchemy-Flask/blob/main/images_readme/delete.png)
+
